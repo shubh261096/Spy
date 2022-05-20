@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858870858092",
+    "project_id": "compass-spy",
+    "storage_bucket": "compass-spy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858870858092:android:8b185a6446bebfd252b349",
+        "android_client_info": {
+          "package_name": "com.vivo.compass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858870858092-a9r9rkf19jtv2cj698379v2jgakhultu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexUP0j4C0Adp9t_EGnYKkNUZhr-aahjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858870858092-a9r9rkf19jtv2cj698379v2jgakhultu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
